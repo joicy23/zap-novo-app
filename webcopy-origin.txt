@@ -1,0 +1,308 @@
+Uri: http://localhost/zap/
+File Name: C:\Downloaded Web Sites\localhost\zap\index.htm
+Content Type: text/html
+
+Uri: http://localhost/zap/includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\dist\hooks.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\imagesloaded.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\localhost\zap\includes\js\jquery\ui\core.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module240/assets/css/frontend-lite.min.css?ver=3.23.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module240/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module240/assets/js/frontend-modules.min.js?ver=3.23.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\js\frontend-modules.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module240/assets/js/frontend.min.js?ver=3.23.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module240/assets/js/webpack.runtime.min.js?ver=3.23.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\js\webpack.runtime.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module240/assets/lib/animations/animations.min.css?ver=3.23.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module240/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module240/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\localhost\zap\module240\assets\lib\waypoints\waypoints.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module697/assets/css/frontend-lite.min.css?ver=3.23.0
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module697/assets/css/widget-carousel.min.css?ver=1721775172
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module697/assets/css/widget-video-playlist.min.css?ver=1721775172
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\css\widget-video-playlist.min.css
+Content Type: text/css
+
+Uri: http://localhost/zap/module697/assets/js/elements-handlers.min.js?ver=3.23.0
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\js\elements-handlers.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module697/assets/js/frontend.min.js?ver=3.23.0
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module697/assets/js/webpack-pro.runtime.min.js?ver=3.23.0
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\js\webpack-pro.runtime.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/module697/assets/lib/sticky/jquery.sticky.min.js?ver=3.23.0
+File Name: C:\Downloaded Web Sites\localhost\zap\module697\assets\lib\sticky\jquery.sticky.min.js
+Content Type: text/javascript
+
+Uri: http://localhost/zap/qovirut/2024/07/1162456.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\1162456.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/2235419.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2235419.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/2e120f13-423c-48cb-bae7-4ec2827aa271-169x300.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2e120f13-423c-48cb-bae7-4ec2827aa271-169x300.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/2e120f13-423c-48cb-bae7-4ec2827aa271-576x1024.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2e120f13-423c-48cb-bae7-4ec2827aa271-576x1024.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/2e120f13-423c-48cb-bae7-4ec2827aa271-768x1365.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2e120f13-423c-48cb-bae7-4ec2827aa271-768x1365.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/2e120f13-423c-48cb-bae7-4ec2827aa271-864x1536.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2e120f13-423c-48cb-bae7-4ec2827aa271-864x1536.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/2e120f13-423c-48cb-bae7-4ec2827aa271.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\2e120f13-423c-48cb-bae7-4ec2827aa271.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/3039520.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\3039520.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/43D55-1024x600.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\43D55-1024x600.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/43D55-300x176.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\43D55-300x176.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/43D55-768x450.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\43D55-768x450.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/43D55.png
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\43D55.png
+Content Type: image/png
+
+Uri: http://localhost/zap/qovirut/2024/07/hq720.jpg
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\hq720.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/zap/qovirut/2024/07/width_512-150x150.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\width_512-150x150.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/width_512-300x300.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\width_512-300x300.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/07/width_512.webp
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\07\width_512.webp
+Content Type: image/webp
+
+Uri: http://localhost/zap/qovirut/2024/08/formas-de-obter-mais-depoimentos-de-clientes-sobre-a-sua-marca.jpg
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\2024\08\formas-de-obter-mais-depoimentos-de-clientes-sobre-a-sua-marca.jpg
+Content Type: image/jpeg
+
+Uri: http://localhost/zap/qovirut/elementor/css/global.css?ver=1723821530
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\elementor\css\global.css
+Content Type: text/css
+
+Uri: http://localhost/zap/qovirut/elementor/css/post-19.css?ver=1723845006
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\elementor\css\post-19-1.css
+Content Type: text/css
+
+Uri: http://localhost/zap/qovirut/elementor/css/post-229.css?ver=1723821530
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\elementor\css\post-229.css
+Content Type: text/css
+
+Uri: http://localhost/zap/qovirut/elementor/css/post-6.css?ver=1723821529
+File Name: C:\Downloaded Web Sites\localhost\zap\qovirut\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: http://localhost/zap/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/zap/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/zap/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/zap/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: http://localhost/zap/wp-json/
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://localhost/zap/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fzap%2F
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://localhost/zap/wp-json/oembed/1.0/embed?url=http:%2F%2Flocalhost%2Fzap%2F&format=xml
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://localhost/zap/wp-json/wp/v2/pages/19
+File Name: C:\Downloaded Web Sites\localhost\zap\wp-json\wp\v2\pages\19
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nanum+Gothic:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.6.1
+File Name: C:\Downloaded Web Sites\localhost\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v23/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\nanumgothic\v23\PN_3Rfi-oW3hYwmKDpxS7F_D-djb-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v23/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\nanumgothic\v23\PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v23/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\nanumgothic\v23\PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\localhost\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-2.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/vue@3.4.38/dist/vue.global.js
+File Name: C:\Downloaded Web Sites\localhost\vue@3.4.38\dist\vue.global-1.js
+Content Type: application/javascript
+
