@@ -66,10 +66,10 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 </style>
 <link rel='stylesheet' id='elementor-frontend-css' href='http://localhost/zap/module240/assets/css/frontend-lite.min.css?ver=3.23.2' media='all' />
 <link rel='stylesheet' id='swiper-css' href='http://localhost/zap/module240/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
-<link rel='stylesheet' id='elementor-post-6-css' href='http://localhost/zap/qovirut/elementor/css/post-6.css?ver=1723846874' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='http://localhost/zap/qovirut/elementor/css/post-6.css?ver=1723850335' media='all' />
 <link rel='stylesheet' id='elementor-pro-css' href='http://localhost/zap/module697/assets/css/frontend-lite.min.css?ver=3.23.0' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='http://localhost/zap/qovirut/elementor/css/global.css?ver=1723846875' media='all' />
-<link rel='stylesheet' id='elementor-post-263-css' href='http://localhost/zap/qovirut/elementor/css/post-263.css?ver=1723846881' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='http://localhost/zap/qovirut/elementor/css/global.css?ver=1723850336' media='all' />
+<link rel='stylesheet' id='elementor-post-263-css' href='http://localhost/zap/qovirut/elementor/css/post-263.css?ver=1723851592' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.6.1' media='all' />
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><link rel="https://api.w.org/" href="http://localhost/zap/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/zap/rigabih.php?rsd" />
 <meta name="generator" content="WordPress 6.6.1" />
@@ -129,7 +129,105 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 				</div>
 				</div>
 				</div>
-					<script type='text/javascript'>
+		
+
+<html>
+	<style>
+
+    .popup {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.5);
+        z-index: 99999999;
+    }
+    .popup-content {
+        position: relative;
+        width: 100%;
+        height: 95%;
+        max-width: 800px;
+        margin: 20px auto;
+        background-color: #fff;
+        border-radius: 5px;
+        overflow: hidden;
+    }
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 24px;
+        color: #fff;
+        cursor: pointer;
+        z-index: 1001;
+        background-color: #ff4d4d;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s;
+    }
+    .close:hover {
+        background-color: #ff1a1a;
+    }
+    iframe {
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+    @media (max-width: 800px) {
+        .popup-content {
+            width: 100%;
+            height: 98%;
+            margin: 1% 0;
+            border-radius: 0;
+        }
+    }
+</style></head><body>
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <span class="close">&times;</span>
+        <iframe src="https://appzap9.netlify.app/" title="AppZap9"></iframe>
+    </div>
+</div>
+
+<script>
+    const openPopup = document.getElementById('openPopup');
+    const abrirPopup = document.getElementById('abrirpopup');
+    const popup = document.getElementById('popup');
+    const close = document.querySelector('.close');
+
+    function showPopup() {
+        popup.style.display = 'block';
+    }
+
+    function hidePopup() {
+        popup.style.display = 'none';
+    }
+
+    openPopup.addEventListener('click', showPopup);
+    abrirPopup.addEventListener('click', showPopup);
+    close.addEventListener('click', hidePopup);
+
+    window.addEventListener('click', (event) => {
+        if (event.target === popup) {
+            hidePopup();
+        }
+    });
+
+    // Adicionar listener para elementos com o id #abrirpopup que possam ser adicionados dinamicamente
+    document.addEventListener('click', (event) => {
+        if (event.target.id === 'abrirpopup') {
+            showPopup();
+        }
+    });
+</script>
+</body></html>
+			<script type='text/javascript'>
 				const lazyloadRunObserver = () => {
 					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
 					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
